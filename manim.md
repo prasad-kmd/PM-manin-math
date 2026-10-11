@@ -3,13 +3,15 @@ i need to create mathematical animations using manim [https://github.com/ManimCo
 worth to remember for this session and/or onward.
 - branding: youtube handle - `@prasadkmd`
 - FHD - 9:16 ratio
-- output rendered video at - `/videos/` 
+- output rendered video at - `/videos/` with relevant `.srt` with audio were used.
 - research the relevant mathematical, scientific, educational content before implement.
+- use clarity skill when you creating narration.
 - created finalized scripts - `/scripts/` 
-- researched summary - `/research/`
+- researched summary in `.md` - `/research/`
 
 
 - topic: **The π = 4 Staircase Paradox**
 - Est. length: 75–90s
 - audience: general/ undergraduates
-- style: suggest list of styles after done researching the topic
+- style: suggest list of styles after done researching the topic | Classic 3Blue1Brown
+- additional - suggest suitable titles, description and suitable hashtags
