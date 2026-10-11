@@ -1,0 +1,56 @@
+[
+  {
+    "name": "hook",
+    "dur": 4.193,
+    "audio": "audio/01_hook.wav",
+    "audio_dur": 3.193
+  },
+  {
+    "name": "setup",
+    "dur": 7.038,
+    "audio": "audio/02_setup.wav",
+    "audio_dur": 5.538
+  },
+  {
+    "name": "fold",
+    "dur": 11.009,
+    "audio": "audio/03_fold.wav",
+    "audio_dur": 9.509
+  },
+  {
+    "name": "converge",
+    "dur": 7.293,
+    "audio": "audio/04_converge.wav",
+    "audio_dur": 5.793
+  },
+  {
+    "name": "paradox",
+    "dur": 8.454,
+    "audio": "audio/05_paradox.wav",
+    "audio_dur": 6.954
+  },
+  {
+    "name": "taxi_sibling",
+    "dur": 14.12,
+    "audio": "audio/06_taxi_sibling.wav",
+    "audio_dur": 12.62
+  },
+  {
+    "name": "taxi_circle",
+    "dur": 10.498,
+    "audio": "audio/07_taxi_circle.wav",
+    "audio_dur": 8.998
+  },
+  {
+    "name": "resolution",
+    "dur": 6.957,
+    "audio": "audio/08_resolution.wav",
+    "audio_dur": 5.457
+  },
+  {
+    "name": "lesson",
+    "dur": 7.932,
+    "audio": "audio/09_lesson.wav",
+    "audio_dur": 6.432
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "hook",
+    "audio": "audio/01_hook.wav",
+    "audio_dur": 10.24,
+    "dur": 11.04
+  },
+  {
+    "name": "setup",
+    "audio": "audio/02_setup.wav",
+    "audio_dur": 3.495,
+    "dur": 4.295
+  },
+  {
+    "name": "gnomon",
+    "audio": "audio/03_gnomon.wav",
+    "audio_dur": 9.381,
+    "dur": 10.181
+  },
+  {
+    "name": "result",
+    "audio": "audio/04_result.wav",
+    "audio_dur": 3.367,
+    "dur": 4.167
+  },
+  {
+    "name": "algebra",
+    "audio": "audio/05_algebra.wav",
+    "audio_dur": 7.721,
+    "dur": 8.521
+  },
+  {
+    "name": "caveat",
+    "audio": "audio/06_caveat.wav",
+    "audio_dur": 6.989,
+    "dur": 7.789
+  },
+  {
+    "name": "close",
+    "audio": "audio/07_close.wav",
+    "audio_dur": 6.142,
+    "dur": 6.942
+  }
+]

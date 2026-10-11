@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "beat": "hook",
+      "start": 0.0,
+      "dur": 4.193,
+      "end": 4.193
+    },
+    {
+      "beat": "setup",
+      "start": 4.193,
+      "dur": 7.038,
+      "end": 11.231
+    },
+    {
+      "beat": "fold",
+      "start": 11.231,
+      "dur": 11.009,
+      "end": 22.24
+    },
+    {
+      "beat": "converge",
+      "start": 22.24,
+      "dur": 7.293,
+      "end": 29.533
+    },
+    {
+      "beat": "paradox",
+      "start": 29.533,
+      "dur": 8.454,
+      "end": 37.987
+    },
+    {
+      "beat": "taxi_sibling",
+      "start": 37.987,
+      "dur": 14.12,
+      "end": 52.107
+    },
+    {
+      "beat": "taxi_circle",
+      "start": 52.107,
+      "dur": 10.498,
+      "end": 66.207
+    },
+    {
+      "beat": "resolution",
+      "start": 66.207,
+      "dur": 6.957,
+      "end": 73.164
+    },
+    {
+      "beat": "lesson",
+      "start": 73.164,
+      "dur": 7.932,
+      "end": 81.096
+    }
+  ],
+  "total": 81.096
+}

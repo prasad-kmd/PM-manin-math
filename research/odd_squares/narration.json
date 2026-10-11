@@ -1,0 +1,30 @@
+[
+ {
+  "name": "hook",
+  "text": "Add the odd numbers, starting from one: one, three, five, and so on. The totals are one, four, nine, sixteen. Why are they always squares?"
+ },
+ {
+  "name": "setup",
+  "text": "Start with one dot: a one-by-one square."
+ },
+ {
+  "name": "gnomon",
+  "text": "Now wrap an L-shaped border around it. Each border adds the next odd number: three, then five, then seven."
+ },
+ {
+  "name": "result",
+  "text": "After n borders, the total is n squared."
+ },
+ {
+  "name": "algebra",
+  "text": "Algebra agrees. Going from n minus one squared to n squared adds exactly two n minus one."
+ },
+ {
+  "name": "caveat",
+  "text": "The starting point matters. Three plus five is eight, not a square. Starting from one is what makes it always work."
+ },
+ {
+  "name": "close",
+  "text": "The Pythagoreans knew this gnomon trick. So every perfect square is a stack of odd numbers."
+ }
+]

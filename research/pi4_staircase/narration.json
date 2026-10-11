@@ -1,0 +1,11 @@
+[
+ {"name": "hook", "text": "Can π really equal four? Let's find out."},
+ {"name": "setup", "text": "Start with a circle of diameter one, wrapped in a square. The square's perimeter is four."},
+ {"name": "fold", "text": "Now fold the corners inward, step by step. Each stage is a staircase of horizontal and vertical steps. Its perimeter stays at four."},
+ {"name": "converge", "text": "The staircase hugs the circle more and more tightly. Every point gets arbitrarily close to it."},
+ {"name": "paradox", "text": "So shouldn't the circle's length be four too? But π is about 3.14. Something is wrong."},
+ {"name": "taxi_sibling", "text": "Picture a taxi on a city grid. It must drive along the streets. A bird flies straight across. Here, the taxi drives two units, while the bird's straight line is about 1.41."},
+ {"name": "taxi_circle", "text": "Now measure the circle the taxi way: add up every horizontal and vertical move. Around this circle, the taxi distance is exactly four."},
+ {"name": "resolution", "text": "The true length is π. So four is not the circle's length. It is the length of the wrong ruler."},
+ {"name": "lesson", "text": "The lesson: shapes can converge while their lengths don't. Always check the direction, not just the position."}
+]

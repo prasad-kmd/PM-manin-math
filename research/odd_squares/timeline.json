@@ -1,0 +1,47 @@
+{
+  "beats": [
+    {
+      "beat": "hook",
+      "start": 0.0,
+      "dur": 11.04,
+      "end": 11.04
+    },
+    {
+      "beat": "setup",
+      "start": 11.04,
+      "dur": 4.295,
+      "end": 15.335
+    },
+    {
+      "beat": "gnomon",
+      "start": 15.335,
+      "dur": 10.181,
+      "end": 25.516
+    },
+    {
+      "beat": "result",
+      "start": 25.516,
+      "dur": 4.167,
+      "end": 29.683
+    },
+    {
+      "beat": "algebra",
+      "start": 29.683,
+      "dur": 8.521,
+      "end": 38.204
+    },
+    {
+      "beat": "caveat",
+      "start": 38.204,
+      "dur": 7.789,
+      "end": 45.993
+    },
+    {
+      "beat": "close",
+      "start": 45.993,
+      "dur": 6.942,
+      "end": 52.935
+    }
+  ],
+  "total": 52.935
+}
