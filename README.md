@@ -55,5 +55,6 @@ These are defaults. Topic-specific instructions may adapt the composition, but s
 ## Health check
 `manim checkhealth` → 4 PASSED (manim, executable, latex, dvisvgm).
 
-GH: @prasad-kmd
-YT: @prasadkmd
+--- 
+GH: [@prasad-kmd](https://github.com/prasad-kmd)
+YT: [@prasadkmd](https://youtube.com/@prasadkmd)
