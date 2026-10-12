@@ -3,14 +3,14 @@ i need to create mathematical animations using manim [https://github.com/ManimCo
 ---
 
 worth to remember for this session and/or onward.
-- branding: youtube handle - `@prasadkmd`
+- branding: youtube handle - `@prasadkmd` | add youtube icon/image alongside if possible.
 - FHD - 9:16 ratio
 - output rendered video at - `/videos/` with relevant `.srt` with audio were used.
 - research the relevant mathematical, scientific, educational content before implement.
 - use clarity skill when you creating narration.
 - created finalized scripts - `/scripts/` 
 - researched summary in `.md` - `/research/`
-- also remember to mention the sources (in short form) at the very end of the video.
+- also remember to mention the sources (in short form) at the very end of the video, not as part of existing frame, just whole new frame. do not narrate those sources. just show the sources silently.
 
 ---
 

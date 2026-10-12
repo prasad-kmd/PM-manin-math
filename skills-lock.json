@@ -7,6 +7,12 @@
       "skillPath": "SKILL.md",
       "computedHash": "dbbc6f2b84bb552217e95109d0ce38d3c9b4a9e8b916e1cefd842e23dab1c3f9"
     },
+    "manim": {
+      "source": "iart-ai/manim-skills",
+      "sourceType": "github",
+      "skillPath": "skills/manim/SKILL.md",
+      "computedHash": "1e09441eebba6f8c4f168ecb69bc69367438e43ed673c9bd5b67dc7fca794dfa"
+    },
     "manim-composer": {
       "source": "adithya-s-k/manim_skill",
       "sourceType": "github",
