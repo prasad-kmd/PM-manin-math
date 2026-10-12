@@ -10,6 +10,7 @@ worth to remember for this session and/or onward.
 - use clarity skill when you creating narration.
 - created finalized scripts - `/scripts/` 
 - researched summary in `.md` - `/research/`
+- also remember to mention the sources (in short form) at the very end of the video.
 
 ---
 
@@ -17,7 +18,7 @@ worth to remember for this session and/or onward.
 - Est. length: 75–90s
 - audience: general/ undergraduates
 - style: suggest list of styles after done researching the topic | Classic 3Blue1Brown
-- additional - suggest suitable titles, description and suitable hashtags
+- additional - suggest suitable titles, description (with reference if researched content were used) and suitable hashtags
 
 ---
 
