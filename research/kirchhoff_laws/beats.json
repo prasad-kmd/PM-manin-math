@@ -1,0 +1,51 @@
+[
+  {
+    "name": "hook",
+    "dur": 6.059,
+    "audio": "audio/01_hook.mp3",
+    "audio_dur": 4.859,
+    "text": "Six unknown currents in one network. Two rules are enough to find them all."
+  },
+  {
+    "name": "build",
+    "dur": 13.02,
+    "audio": "audio/02_build.mp3",
+    "audio_dur": 11.52,
+    "text": "So start smaller. A twelve volt battery drives current through a four ohm resistor, then the path splits into a twelve ohm and a six ohm branch, and rejoins at node B."
+  },
+  {
+    "name": "kcl",
+    "dur": 15.711,
+    "audio": "audio/03_kcl.mp3",
+    "audio_dur": 14.211,
+    "text": "That split is the first rule. At any node, the current arriving equals the current leaving. Here, one and a half amps arrive, and half an amp plus one amp leave. Nothing is lost at the junction."
+  },
+  {
+    "name": "kcl_why",
+    "dur": 12.837,
+    "audio": "audio/04_kcl_why.mp3",
+    "audio_dur": 11.337,
+    "text": "And this is not a coincidence. Charge cannot pile up at a point. If more arrived than left, it would accumulate, and the circuit would not be steady. This is conservation of charge."
+  },
+  {
+    "name": "kvl",
+    "dur": 15.345,
+    "audio": "audio/05_kvl.mp3",
+    "audio_dur": 13.845,
+    "text": "Now the second rule. Pick any closed loop and walk it. Cross the battery and the potential rises twelve volts. Cross the resistors and it drops: six volts, then six more. The changes sum to zero."
+  },
+  {
+    "name": "kvl_why",
+    "dur": 10.46,
+    "audio": "audio/06_kvl_why.mp3",
+    "audio_dur": 8.96,
+    "text": "You walked back to where you started, so you had to end at the same potential. Every volt gained was spent. That is conservation of energy."
+  },
+  {
+    "name": "resolve",
+    "dur": 12.576,
+    "audio": "audio/07_resolve.mp3",
+    "audio_dur": 11.076,
+    "text": "So these are not formulas to memorise. Current sums to zero at a node because charge is conserved. Voltage sums to zero around a loop because energy is conserved."
+  }
+]

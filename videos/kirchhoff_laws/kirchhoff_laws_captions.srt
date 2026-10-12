@@ -1,0 +1,28 @@
+1
+00:00:00,300 --> 00:00:05,159
+Six unknown currents in one network. Two rules are enough to find them all.
+
+2
+00:00:06,359 --> 00:00:17,879
+So start smaller. A twelve volt battery drives current through a four ohm resistor, then the path splits into a twelve ohm and a six ohm branch, and rejoins at node B.
+
+3
+00:00:19,379 --> 00:00:33,590
+That split is the first rule. At any node, the current arriving equals the current leaving. Here, one and a half amps arrive, and half an amp plus one amp leave. Nothing is lost at the junction.
+
+4
+00:00:35,090 --> 00:00:46,427
+And this is not a coincidence. Charge cannot pile up at a point. If more arrived than left, it would accumulate, and the circuit would not be steady. This is conservation of charge.
+
+5
+00:00:47,927 --> 00:01:01,772
+Now the second rule. Pick any closed loop and walk it. Cross the battery and the potential rises twelve volts. Cross the resistors and it drops: six volts, then six more. The changes sum to zero.
+
+6
+00:01:03,272 --> 00:01:12,232
+You walked back to where you started, so you had to end at the same potential. Every volt gained was spent. That is conservation of energy.
+
+7
+00:01:13,732 --> 00:01:24,808
+So these are not formulas to memorise. Current sums to zero at a node because charge is conserved. Voltage sums to zero around a loop because energy is conserved.
+

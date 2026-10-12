@@ -1,0 +1,9 @@
+[
+  {"name": "hook", "text": "Six unknown currents in one network. Two rules are enough to find them all."},
+  {"name": "build", "text": "So start smaller. A twelve volt battery drives current through a four ohm resistor, then the path splits into a twelve ohm and a six ohm branch, and rejoins at node B."},
+  {"name": "kcl", "text": "That split is the first rule. At any node, the current arriving equals the current leaving. Here, one and a half amps arrive, and half an amp plus one amp leave. Nothing is lost at the junction."},
+  {"name": "kcl_why", "text": "And this is not a coincidence. Charge cannot pile up at a point. If more arrived than left, it would accumulate, and the circuit would not be steady. This is conservation of charge."},
+  {"name": "kvl", "text": "Now the second rule. Pick any closed loop and walk it. Cross the battery and the potential rises twelve volts. Cross the resistors and it drops: six volts, then six more. The changes sum to zero."},
+  {"name": "kvl_why", "text": "You walked back to where you started, so you had to end at the same potential. Every volt gained was spent. That is conservation of energy."},
+  {"name": "resolve", "text": "So these are not formulas to memorise. Current sums to zero at a node because charge is conserved. Voltage sums to zero around a loop because energy is conserved."}
+]

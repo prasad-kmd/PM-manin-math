@@ -1,0 +1,21 @@
+# Manim cache and logs — not deliverables (README: "media/ — Manim cache and logs")
+media/
+
+# Per-animation partial renders
+videos/**/partial_movie_files/
+
+# Rendered video: regenerable from scripts/ with the command in each script header.
+# Keeps the repo light — the finished mp4 is a build artifact, not source.
+# Caption sidecars (.srt) are small text and DO stay tracked.
+videos/**/*.mp4
+videos/**/*.mov
+videos/**/*.mkv
+videos/**/*.webm
+
+# TTS narration clips: regenerable from research/<topic>/narration.json.
+# Matches the repo's earlier "remove audios" commit.
+research/**/audio/
+
+# Python
+__pycache__/
+*.pyc
