@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "beat": "hook",
+      "start": 0.0,
+      "dur": 7.751,
+      "end": 7.751
+    },
+    {
+      "beat": "setup",
+      "start": 7.751,
+      "dur": 9.276,
+      "end": 17.027
+    },
+    {
+      "beat": "slope",
+      "start": 17.027,
+      "dur": 8.23,
+      "end": 25.257
+    },
+    {
+      "beat": "curvature",
+      "start": 25.257,
+      "dur": 12.492,
+      "end": 37.749
+    },
+    {
+      "beat": "factorial",
+      "start": 37.749,
+      "dur": 13.17,
+      "end": 50.919
+    },
+    {
+      "beat": "hug",
+      "start": 50.919,
+      "dur": 12.273,
+      "end": 63.192
+    },
+    {
+      "beat": "formula",
+      "start": 63.192,
+      "dur": 8.496,
+      "end": 71.688
+    },
+    {
+      "beat": "caveat",
+      "start": 71.688,
+      "dur": 9.6,
+      "end": 81.288
+    },
+    {
+      "beat": "lesson",
+      "start": 81.288,
+      "dur": 7.969,
+      "end": 89.257
+    }
+  ],
+  "total": 89.257
+}

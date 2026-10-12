@@ -1,0 +1,38 @@
+[
+  {
+    "name": "hook",
+    "text": "How does a calculator find the cosine of a number when all it can really do is add and multiply? It fakes the curve with a polynomial."
+  },
+  {
+    "name": "setup",
+    "text": "Start with cosine of x near zero. At x equals zero, the height is one, so our simplest flat guess is just P of x equals one."
+  },
+  {
+    "name": "slope",
+    "text": "Next, match the slope. Cosine's derivative at zero is zero, so the tangent line stays flat and the x term vanishes."
+  },
+  {
+    "name": "curvature",
+    "text": "Now match the bend. Cosine's second derivative at zero is minus one. Subtracting one-half x squared bends our line into a parabola that shares the exact same curvature."
+  },
+  {
+    "name": "factorial",
+    "text": "Why divide by two, and then by factorials? Differentiating x to the n pulls down n, then n minus one, all the way to n factorial. Dividing by n factorial cancels that cascade."
+  },
+  {
+    "name": "hug",
+    "text": "Watch what happens as we add degree four, six, eight, and ten. Each new term locks in the next derivative at zero, making the polynomial hug cosine over a wider and wider interval."
+  },
+  {
+    "name": "formula",
+    "text": "Keep going forever and you get the Taylor series: the n-th derivative at your anchor point, divided by n factorial, times x minus a to the n."
+  },
+  {
+    "name": "caveat",
+    "text": "For cosine, this series converges everywhere. Other smooth curves, like one over one plus x squared, only hug inside a fixed radius before shooting off."
+  },
+  {
+    "name": "lesson",
+    "text": "Still, the core insight holds: knowing every derivative at a single point lets you rebuild a curve far away."
+  }
+]

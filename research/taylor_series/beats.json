@@ -1,0 +1,56 @@
+[
+  {
+    "name": "hook",
+    "dur": 7.751,
+    "audio": "audio/01_hook.wav",
+    "audio_dur": 7.101
+  },
+  {
+    "name": "setup",
+    "dur": 9.276,
+    "audio": "audio/02_setup.wav",
+    "audio_dur": 8.626
+  },
+  {
+    "name": "slope",
+    "dur": 8.23,
+    "audio": "audio/03_slope.wav",
+    "audio_dur": 7.58
+  },
+  {
+    "name": "curvature",
+    "dur": 12.492,
+    "audio": "audio/04_curvature.wav",
+    "audio_dur": 11.842
+  },
+  {
+    "name": "factorial",
+    "dur": 13.17,
+    "audio": "audio/05_factorial.wav",
+    "audio_dur": 12.52
+  },
+  {
+    "name": "hug",
+    "dur": 12.273,
+    "audio": "audio/06_hug.wav",
+    "audio_dur": 11.623
+  },
+  {
+    "name": "formula",
+    "dur": 8.496,
+    "audio": "audio/07_formula.wav",
+    "audio_dur": 7.846
+  },
+  {
+    "name": "caveat",
+    "dur": 9.6,
+    "audio": "audio/08_caveat.wav",
+    "audio_dur": 8.95
+  },
+  {
+    "name": "lesson",
+    "dur": 7.969,
+    "audio": "audio/09_lesson.wav",
+    "audio_dur": 7.319
+  }
+]
