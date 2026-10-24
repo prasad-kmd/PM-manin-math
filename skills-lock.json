@@ -24,6 +24,12 @@
       "sourceType": "github",
       "skillPath": "skills/production/runtime-assembly/manim-explainer-animation/SKILL.md",
       "computedHash": "3af72e5bcd35850349d38e0e6706b0eac7e7ef247027b64e450f561aa844e57f"
+    },
+    "no-ai-slop": {
+      "source": "petergyang/no-ai-slop",
+      "sourceType": "github",
+      "skillPath": "skills/no-ai-slop/SKILL.md",
+      "computedHash": "109e265d222da64314b5f08634e4c4ab91051c81eff92d52beea8f3cd81ddb3d"
     }
   }
 }
